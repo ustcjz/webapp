@@ -1,4 +1,3 @@
 git is a distributed control system
 git is free
-git is easy to learn 
 master branch is good
