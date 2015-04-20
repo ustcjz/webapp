@@ -2,3 +2,4 @@ file created off brach dev
 fix a bug
 new line on branch dev
 
+test of command stash
